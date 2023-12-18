@@ -37,7 +37,7 @@ Espero que nosso código seja simples o suficiente para te conquistar.
 Esta é parte de uma resolução de um conjunto de problemas relacionados a algoritmos e a consultas em banco de dados. Publicaremos nossos artigos no Medium, mas também armazenaremos tudo no nosso GitHub. Divulgaremos nosso trabalho no LinkedIn e no Instagram. Aproveite para nos seguir nas redes sociais:
 
 - <a href =   https://www.linkedin.com/in/eliabebastos/>Eliabe Bastos</a>
-- <a href = https://www.linkedin.com/in/eliabebastos/>Gabriel Palitot</a>
+- <a href = https://www.linkedin.com/in/gabriel-palitot-3a4b87186/>Gabriel Palitot</a>
 - <a href = https://www.instagram.com/caaalango.tech/> Instagram Caaalango Tech</a>
 - <a href =https://github.com/caaalango> GitHub Caaalango</a>
 
